@@ -9,7 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>shennong-file-web</artifactId>
+    <artifactId>file-web</artifactId>
+    <packaging>war</packaging>
 
 
 </project>
